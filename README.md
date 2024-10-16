@@ -6,9 +6,11 @@ This is a research and development project, built for tracking object's activity
 
 # Technologies
 1. Frontend - Java, kotlin
-2. Backend - PhP RestFul API
-3. Firebase Cloud Messaging
-4. Microcontrollers - ESP8266 (NodeMCU IoT Platform)
+2. Embedded System - C++
+3. Backend - PhP RestFul API
+4. Firebase Cloud Messaging
+5. Microcontrollers - ESP8266 (NodeMCU IoT Platform)
+6. IDE - Android Studio, Arduino IDE
 
 # Representations
 1. <b> User Interface <b>
