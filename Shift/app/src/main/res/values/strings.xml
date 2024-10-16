@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shift</string>
+    <string name="title_activity_ip_sign_in">IpSignIn</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">You must grant permission to access camera and external storage to run this application.</string>
+    <string name="permission_warning">All permissions are required.</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029990842311",
+    "project_id": "shiftclient-ed070",
+    "storage_bucket": "shiftclient-ed070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029990842311:android:164062cccc1a6b587123e2",
+        "android_client_info": {
+          "package_name": "com.armavi.shiftclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029990842311-rfegc9el730dpfl5h1vu3p8q97bq2neg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armavi.shiftclient",
+            "certificate_hash": "061196728d26e02e8a20e0d29bbd5df75c892d04"
+          }
+        },
+        {
+          "client_id": "1029990842311-658bccg6uloidr0hn40t43s7agq9qj96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXI-37Q2jXqHvBqjQ-1_HgYsHYFEfwoV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029990842311-658bccg6uloidr0hn40t43s7agq9qj96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AlertPanel"
+    android:orientation="vertical"
+    android:gravity="center">
+
+<!--    <com.airbnb.lottie.LottieAnimationView-->
+<!--        android:layout_width="350dp"-->
+<!--        android:layout_height="350dp"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:id="@+id/animation_view"-->
+<!--        app:lottie_rawRes="@raw/police_on"-->
+<!--        app:lottie_autoPlay="true"-->
+<!--        app:lottie_loop="true"/>-->
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardMaxElevation="0dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/intruder_face"
+                android:layout_width="300dp"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/detected_face"
+                android:scaleType="fitXY"
+                android:padding="10dp"
+                />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/detction_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00AA"
+            android:textSize="15dp"
+            android:background="@drawable/rounded_corner"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/detection_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00/00/0000"
+            android:textSize="15dp"
+            android:background="@drawable/rounded_corner"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/stop_alert_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="10dp"
+            app:tint="@color/white"
+            app:srcCompat="@drawable/stop"
+            app:maxImageSize="40dp"
+            app:fabCustomSize="70dp"
+            />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
