@@ -13,6 +13,6 @@ This is a research and development project, built for tracking object's activity
 # Representations
 1. User Interface -
 
-![IMG_20230624_132131](https://github.com/user-attachments/assets/e70085e2-2a88-41ab-8de0-57a3d9859da9)
-![Screenshot_2023-06-24-13-28-41-764_com armavi shiftclient](https://github.com/user-attachments/assets/524a85ec-5fdf-4ff2-a4e6-d0c143f5fde0)
-![Screenshot_2023-06-24-13-22-13-950_com armavi shiftclient](https://github.com/user-attachments/assets/951300c9-2c84-4536-9d1d-f49df5981467)
+![Screenshot_2023-06-24-13-28-41-764_com armavi shiftclient](https://github.com/user-attachments/assets/e2839bcc-1808-4822-8d08-e348626535e1)
+![Screenshot_2023-06-24-13-22-13-950_com armavi shiftclient](https://github.com/user-attachments/assets/1501d4bf-c763-4b82-9817-f91c392c1cc4)
+![IMG_20230624_132131](https://github.com/user-attachments/assets/e6fd9293-03f0-4d84-b9d4-0b6bb6154939)
